@@ -22,14 +22,14 @@ git clone https://github.com/moeketsisegalo/ehailing_app.git
 ```
 cd ehailing_app
 ```
-2. Build the Docker image:
+3. Build the Docker image:
 ```
 docker build -t ehailing_app .
 ```
 ![Build App](screenshot/build_app.png)
 
 
-3. Run the Docker container:
+4. Run the Docker container:
 ```
 docker run -it --name ehailing_container ehailing_app
 ```
