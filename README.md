@@ -42,13 +42,5 @@ Follow the on-screen instructions to interact with the e-hailing app.
 
 ![Register Users](screenshot/rider_registration.png)
 
-* Registering the driver
-
-![Driver Registration](screenshot/rider_app.png)
-
-* Requesting a ride
-![Request](screenshot/request.png)
-
-* Status of the ride
-
-![Status](screenshot/status.png)
+# Credits 
+The ehailing_app project was created by Moeketsi Segalo.
