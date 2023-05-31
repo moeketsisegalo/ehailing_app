@@ -17,8 +17,11 @@ On the Docker website, you'll find installation guides and resources for various
 ```
 git clone https://github.com/moeketsisegalo/ehailing_app.git
 ```
+2. Navigate to the project directory
 
-
+```
+cd ehailing_app
+```
 2. Build the Docker image:
 ```
 docker build -t ehailing_app .
