@@ -12,3 +12,14 @@ This is a simple e-hailing app implemented in Python using SQLite for data stora
 ```
 git clone https://github.com/moeketsisegalo/ehailing_app.git
 ```
+
+
+2. Build the Docker image:
+```
+docker build -t ehailing_app .
+```
+3. Run the Docker container:
+```
+docker run -it --name ehailing_container ehailing_app
+```
+Follow the on-screen instructions to interact with the e-hailing app.
