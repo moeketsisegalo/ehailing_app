@@ -38,7 +38,8 @@ Follow the on-screen instructions to interact with the e-hailing app.
 
 ### Example:
 
-* Registering the user
+* Registering the user and driver
+
 
 ![Register Users](screenshot/rider_registration.png)
 
