@@ -23,6 +23,9 @@ git clone https://github.com/moeketsisegalo/ehailing_app.git
 ```
 docker build -t ehailing_app .
 ```
+![Build App](screenshot/build_app.png)
+
+
 3. Run the Docker container:
 ```
 docker run -it --name ehailing_container ehailing_app
