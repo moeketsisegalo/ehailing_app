@@ -30,4 +30,5 @@ docker build -t ehailing_app .
 ```
 docker run -it --name ehailing_container ehailing_app
 ```
+![Run App](screenshot/run_app.png)
 Follow the on-screen instructions to interact with the e-hailing app.
