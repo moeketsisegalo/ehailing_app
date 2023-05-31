@@ -9,4 +9,6 @@ This is a simple e-hailing app implemented in Python using SQLite for data stora
 ## Getting Started
 
 1. Clone the repository:
-
+```
+git clone https://github.com/moeketsisegalo/ehailing_app.git
+```
