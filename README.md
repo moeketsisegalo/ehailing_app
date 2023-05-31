@@ -5,6 +5,11 @@ This is a simple e-hailing app implemented in Python using SQLite for data stora
 ## Prerequisites
 
 - Docker: Install Docker on your machine to run the app in a containerized environment.
+- Docker Website: https://www.docker.com/
+
+On the Docker website, you'll find installation guides and resources for various operating systems, including Windows, macOS, and Linux. Simply choose your operating system and follow the step-by-step instructions provided.
+
+
 
 ## Getting Started
 
